@@ -127,3 +127,8 @@ footer{
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
+.foto{
+    max-width: 100%;
+    width: 100%;
+}
