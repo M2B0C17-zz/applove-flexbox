@@ -134,6 +134,8 @@ footer{
 	background-color: white;
 	text-align: center;
   	padding: 20px 50px;
+  	display: flex;
+  	justify-content: center;
 }
 
 .fotifoti{
