@@ -128,7 +128,16 @@ footer{
     flex-wrap: wrap;
 }
 
-.foto{
-    max-width: 100%;
-    width: 100%;
+
+/*Fotos 2*/
+#fotosWork{
+	background-color: white;
+	text-align: center;
+  	padding: 20px 50px;
+}
+
+.fotifoti{
+	width: 350px;
+	padding: 0 30px;
+	overflow: hidden; /*esto es para colocarle un borde de caja que contiene al elemento*/
 }
